@@ -16,7 +16,7 @@ public class Number16to30 {
             Spelling = in.next();
             while (true) {
                 if (Spelling.equalsIgnoreCase(letters[i])) {
-                    System.out.println("That's correct :)");
+                    System.out.println("That's correct  :)");
                     break;
                 } else {
                     System.out.println("That's wrong! Try again");
